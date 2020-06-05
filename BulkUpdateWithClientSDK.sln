@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkUpdateWithClientSDK", "BulkUpdateWithClientSDK\BulkUpdateWithClientSDK.csproj", "{480CE1BD-2549-4C88-BEE6-72FC3434C4F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{480CE1BD-2549-4C88-BEE6-72FC3434C4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480CE1BD-2549-4C88-BEE6-72FC3434C4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480CE1BD-2549-4C88-BEE6-72FC3434C4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480CE1BD-2549-4C88-BEE6-72FC3434C4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA9BEA95-CC42-4D18-9E40-E145FCB330B2}
+	EndGlobalSection
+EndGlobal
